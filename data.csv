@@ -1,0 +1,249 @@
+Food Item,Category,Compostability,Composting Method,Notes
+Chapati,Bread/Baked,Green,Shred into small pieces,No oil or butter
+Rice (Plain),Grain/Staple,Green,Moist composting,Mix with dry leaves
+Dal (Lentil Curry),Curry/Gravy,Green,Add in small amounts,Avoid excess salt
+Sambar,Curry/Gravy,Green,Moist composting,No tamarind or excess spice
+Idli,Steamed Food,Green,Shred into small pieces,No chutney or sambar
+Dosa,Bread/Baked,Brown,Shred before composting,No oil or butter
+Paratha,Bread/Baked,Partial,Only if minimal oil,No ghee-stuffed parathas
+Poori,Fried,Non-Compostable,Discard,Fried & oily
+Bhaji (Vegetable Curry),Curry/Gravy,Green,Small amounts,No heavy spices
+Paneer Butter Masala,Curry/Gravy,Partial,Only paneer pieces,No heavy butter
+Chole (Chickpea Curry),Curry/Gravy,Green,Moist composting,Avoid excess masala
+Rajma (Kidney Bean Curry),Curry/Gravy,Green,Small amounts,Avoid excess salt
+Aloo Gobi (Potato Cauliflower),Curry/Gravy,Green,Compost vegetables,No oil
+Baingan Bharta (Mashed Eggplant),Curry/Gravy,Green,Chop before composting,Avoid oil
+Dhokla,Steamed Food,Green,Shred into small pieces,No chutney or oil
+Thepla,Bread/Baked,Brown,Shred before composting,Minimal oil use
+Halwa (Semolina Pudding),Dessert,Non-Compostable,Discard,Sugar & ghee
+Gulab Jamun,Dessert,Non-Compostable,Discard,Fried & sugary
+Jalebi,Dessert,Non-Compostable,Discard,Fried & sugary
+Kheer (Rice Pudding),Dessert,Partial,Only rice grains,No milk
+Curd/Dahi,Dairy,Non-Compostable,Discard,Attracts pests
+Milk,Dairy,Non-Compostable,Discard,Turns rancid
+Paneer (Cottage Cheese),Dairy,Non-Compostable,Discard,Does not decompose well
+Buttermilk,Dairy,Non-Compostable,Discard,May attract insects
+Egg Bhurji (Scrambled Eggs),Egg,Partial,Compost in moderation,Avoid oil
+Omelette (Egg),Egg,Partial,Only plain egg parts,Avoid cheese & spices
+Boiled Egg,Egg,Partial,Crushed eggshells only,Protein content slows composting
+Chicken Curry,Meat,Non-Compostable,Discard,Meat attracts rodents
+Fish Fry,Meat,Non-Compostable,Discard,Fish smells & attracts pests
+Mutton Biryani,Rice Dish,Non-Compostable,Discard,Too oily & spiced
+Vegetable Biryani,Rice Dish,Green,Small portions,Avoid excess oil
+Khichdi,Rice Dish,Green,Moist composting,Good balance of nitrogen
+Lassi,Beverage,Non-Compostable,Discard,Dairy product
+Tea Leaves,Beverage,Green,Add directly,Boosts nitrogen in compost
+Coffee Grounds,Beverage,Green,Add directly,Good composting agent
+Sugar,Dry Ingredient,Non-Compostable,Discard,Slows down composting
+Salt,Dry Ingredient,Non-Compostable,Discard,Harms compost microbes
+Pepper,Dry Ingredient,Partial,Use in small amounts,Too much may disrupt compost balance
+Turmeric,Dry Ingredient,Partial,Small amounts,Too much can alter compost acidity
+Coriander Powder,Dry Ingredient,Green,Add in small amounts,Acts as a mild compost activator
+Chili Powder,Dry Ingredient,Non-Compostable,Discard,Can harm compost microbes
+Onion,Vegetable,Green,Chop & compost,Avoid large pieces
+Garlic,Vegetable,Green,Chop before composting,Avoid in excess
+Tomato,Vegetable,Green,Compost as-is,High water content
+Chapati,Bread/Baked,Green,Shred into small pieces,No oil or butter
+Rice,Grain,Green,Compost as is,No oil or butter
+Dal,Lentils,Green,Compost as is,No oil or butter
+Samosa,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Pani Puri,Street Food,Green,Compost as is,No oil or butter
+Biryani,Rice Dish,Green,Compost as is,No oil or butter
+Poha,Breakfast Dish,Green,Compost as is,No oil or butter
+Dhokla,Steamed Snack,Green,Compost as is,No oil or butter
+Idli,Steamed Dish,Green,Compost as is,No oil or butter
+Dosa,Pancake,Green,Compost as is,No oil or butter
+Vada,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Pakora,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Kheer,Dessert,Green,Compost as is,No oil or butter
+Gulab Jamun,Dessert,Green,Compost as is,No oil or butter
+Jalebi,Dessert,Green,Compost as is,No oil or butter
+Rasgulla,Dessert,Green,Compost as is,No oil or butter
+Lassi,Beverage,Green,Compost as is,No oil or butter
+Chai,Beverage,Green,Compost as is,No oil or butter
+Naan,Bread/Baked,Green,Shred into small pieces,No oil or butter
+Paratha,Bread/Baked,Green,Shred into small pieces,No oil or butter
+Roti,Bread/Baked,Green,Shred into small pieces,No oil or butter
+Puri,Fried Bread,Brown,Remove any plastic wrapping,Contains oil
+Bhaji,Vegetable Dish,Green,Compost as is,No oil or butter
+Pav Bhaji,Street Food,Green,Compost as is,No oil or butter
+Chole Bhature,Street Food,Green,Compost as is,No oil or butter
+Rajma,Lentils,Green,Compost as is,No oil or butter
+Kadhi,Curry,Green,Compost as is,No oil or butter
+Aloo Gobi,Vegetable Dish,Green,Compost as is,No oil or butter
+Palak Paneer,Vegetable Dish,Green,Compost as is,No oil or butter
+Butter Chicken,Non-Veg,Brown,Remove any plastic wrapping,Contains oil
+Tandoori Chicken,Non-Veg,Brown,Remove any plastic wrapping,Contains oil
+Fish Curry,Non-Veg,Brown,Remove any plastic wrapping,Contains oil
+Egg Curry,Non-Veg,Brown,Remove any plastic wrapping,Contains oil
+Paneer Tikka,Appetizer,Green,Compost as is,No oil or butter
+Chicken Tikka,Appetizer,Brown,Remove any plastic wrapping,Contains oil
+Vegetable Pulao,Rice Dish,Green,Compost as is,No oil or butter
+Jeera Rice,Rice Dish,Green,Compost as is,No oil or butter
+Kadai Paneer,Vegetable Dish,Green,Compost as is,No oil or butter
+Malai Kofta,Vegetable Dish,Green,Compost as is,No oil or butter
+Aloo Paratha,Bread/Baked,Green,Shred into small pieces,No oil or butter
+Methi Paratha,Bread/Baked,Green,Shred into small pieces,No oil or butter
+Gobi Paratha,Bread/Baked,Green,Shred into small pieces,No oil or butter
+Paneer Paratha,Bread/Baked,Green,Shred into small pieces,No oil or butter
+Masala Dosa,Pancake,Green,Compost as is,No oil or butter
+Rava Dosa,Pancake,Green,Compost as is,No oil or butter
+Onion Uttapam,Pancake,Green,Compost as is,No oil or butter
+Tomato Uttapam,Pancake,Green,Compost as is,No oil or butter
+Mysore Bonda,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Medu Vada,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Aloo Tikki,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Paniyaram,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Kachori,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Mirchi Bajji,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Bread Pakora,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Corn Pakora,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Paneer Pakora,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Chicken Pakora,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Fish Pakora,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Egg Pakora,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Vegetable Pakora,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Onion Pakora,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Potato Pakora,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Spinach Pakora,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Cauliflower Pakora,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Banana Bajji,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Bread Bajji,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Mirchi Bajji,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Onion Bajji,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Potato Bajji,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Spinach Bajji,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Cauliflower Bajji,Fried Snack,Brown,Remove any plastic wrapping,Contains oil
+Food Item,Category,Composability Status,Preparation Notes,Additional Notes
+Chapati,Bread/Baked,Green,Shred into small pieces,No oil or butter
+Idli,Steamed,Green,Break into small pieces,No chutney or sambar
+Dosa,Fermented,Yellow,Tear into small pieces,Avoid adding ghee
+Poha,Flattened Rice,Green,Mix with other compostables,No added nuts or spices
+Upma,Semolina,Yellow,Break into smaller chunks,Avoid oil-rich preparations
+Paratha,Flatbread,Yellow,Shred into small pieces,Avoid excessive ghee or butter
+Samosa,Fried Snack,Red,Remove outer layer,Not recommended for composting
+Pakora,Fried Snack,Red,Break into small pieces,Avoid oil-rich batter
+Biryani,Rice Dish,Yellow,Separate rice and meat,Meat is not compostable
+Pulao,Rice Dish,Green,Mix with other compostables,No meat or dairy
+Khichdi,Lentil-Rice Dish,Green,Mix with other compostables,No ghee or butter
+Vada,Fried Snack,Red,Break into small pieces,Avoid oil-rich preparations
+Pani Puri,Street Food,Red,Remove fried puris,Not recommended for composting
+Bhel Puri,Street Food,Yellow,Separate fried components,Avoid chutneys
+Chole Bhature,Fried Bread,Red,Remove bhature,Chickpeas are compostable
+Rajma,Curry,Green,Mix with other compostables,No oil or cream
+Dal Tadka,Lentil Dish,Green,Mix with other compostables,No ghee or butter
+Aloo Gobi,Vegetable Dish,Green,Mix with other compostables,No oil or spices
+Palak Paneer,Vegetable Dish,Yellow,Separate paneer,Paneer is not compostable
+Matar Paneer,Vegetable Dish,Yellow,Separate paneer,Paneer is not compostable
+Baingan Bharta,Vegetable Dish,Green,Mix with other compostables,No oil or spices
+Pav Bhaji,Street Food,Yellow,Separate pav,Pav is not compostable
+Dhokla,Steamed Snack,Green,Break into small pieces,No chutney
+Kachori,Fried Snack,Red,Remove outer layer,Not recommended for composting
+Litti Chokha,Baked Snack,Yellow,Separate litti,Litti is not compostable
+Misal Pav,Street Food,Yellow,Separate pav,Pav is not compostable
+Pongal,Rice Dish,Green,Mix with other compostables,No ghee or butter
+Rasam,Soup,Green,Mix with other compostables,No oil or spices
+Sambar,Soup,Green,Mix with other compostables,No oil or spices
+Kheer,Dessert,Yellow,Separate dairy components,Dairy is not compostable
+Gulab Jamun,Dessert,Red,Remove syrup,Not recommended for composting
+Rasgulla,Dessert,Yellow,Separate syrup,Syrup is not compostable
+Jalebi,Dessert,Red,Remove syrup,Not recommended for composting
+Ladoo,Dessert,Yellow,Break into small pieces,No ghee or nuts
+Barfi,Dessert,Yellow,Break into small pieces,No ghee or nuts
+Halwa,Dessert,Yellow,Mix with other compostables,No ghee or nuts
+Payasam,Dessert,Yellow,Separate dairy components,Dairy is not compostable
+Puran Poli,Sweet Flatbread,Yellow,Shred into small pieces,No ghee or butter
+Modak,Sweet Dumpling,Yellow,Break into small pieces,No ghee or nuts
+Shrikhand,Dessert,Yellow,Separate dairy components,Dairy is not compostable
+Papdi Chaat,Street Food,Red,Remove fried papdi,Not recommended for composting
+Sev Puri,Street Food,Red,Remove fried puris,Not recommended for composting
+Dahi Puri,Street Food,Red,Remove fried puris,Not recommended for composting
+Aloo Tikki,Fried Snack,Red,Break into small pieces,Avoid oil-rich preparations
+Chana Masala,Curry,Green,Mix with other compostables,No oil or spices
+Malai Kofta,Fried Snack,Red,Remove fried koftas,Not recommended for composting
+Vegetable Biryani,Rice Dish,Green,Mix with other compostables,No oil or spices
+Egg Curry,Curry,Yellow,Separate eggs,Eggs are not compostable
+Fish Curry,Curry,Red,Remove fish,Fish is not compostable
+Chicken Curry,Curry,Red,Remove chicken,Chicken is not compostable
+Mutton Curry,Curry,Red,Remove mutton,Mutton is not compostable
+Paneer Tikka,Grilled Snack,Yellow,Separate paneer,Paneer is not compostable
+Tandoori Chicken,Grilled Snack,Red,Remove chicken,Chicken is not compostable
+Vegetable Pulao,Rice Dish,Green,Mix with other compostables,No oil or spices
+Jeera Rice,Rice Dish,Green,Mix with other compostables,No oil or spices
+Lemon Rice,Rice Dish,Green,Mix with other compostables,No oil or spices
+Tomato Rice,Rice Dish,Green,Mix with other compostables,No oil or spices
+Coconut Rice,Rice Dish,Green,Mix with other compostables,No oil or spices
+Curd Rice,Rice Dish,Yellow,Separate curd,Curd is not compostable
+Vegetable Fried Rice,Rice Dish,Yellow,Separate oil-rich components,Avoid oil-rich preparations
+Egg Fried Rice,Rice Dish,Red,Remove eggs,Eggs are not compostable
+Chicken Fried Rice,Rice Dish,Red,Remove chicken,Chicken is not compostable
+Vegetable Noodles,Noodles,Yellow,Separate oil-rich components,Avoid oil-rich preparations
+Egg Noodles,Noodles,Red,Remove eggs,Eggs are not compostable
+Chicken Noodles,Noodles,Red,Remove chicken,Chicken is not compostable
+Vegetable Manchurian,Indo-Chinese,Yellow,Separate fried components,Avoid oil-rich preparations
+Gobi Manchurian,Indo-Chinese,Yellow,Separate fried components,Avoid oil-rich preparations
+Paneer Manchurian,Indo-Chinese,Yellow,Separate paneer,Paneer is not compostable
+Chicken Manchurian,Indo-Chinese,Red,Remove chicken,Chicken is not compostable
+Vegetable Spring Rolls,Indo-Chinese,Red,Remove fried wrappers,Not recommended for composting
+Chicken Spring Rolls,Indo-Chinese,Red,Remove chicken and wrappers,Not recommended for composting
+Vegetable Momos,Steamed Snack,Green,Break into small pieces,No chutney
+Chicken Momos,Steamed Snack,Red,Remove chicken,Chicken is not compostable
+Paneer Momos,Steamed Snack,Yellow,Separate paneer,Paneer is not compostable
+Vegetable Cutlet,Fried Snack,Red,Remove fried coating,Not recommended for composting
+Chicken Cutlet,Fried Snack,Red,Remove chicken and coating,Not recommended for composting
+Paneer Cutlet,Fried Snack,Red,Remove paneer and coating,Not recommended for composting
+Vegetable Pakora,Fried Snack,Red,Break into small pieces,Avoid oil-rich batter
+Onion Pakora,Fried Snack,Red,Break into small pieces,Avoid oil-rich batter
+Paneer Pakora,Fried Snack,Red,Break into small pieces,Avoid oil-rich batter
+Chicken Pakora,Fried Snack,Red,Remove chicken,Chicken is not compostable
+Vegetable Samosa,Fried Snack,Red,Remove outer layer,Not recommended for composting
+Paneer Samosa,Fried Snack,Red,Remove outer layer,Not recommended for composting
+Chicken Samosa,Fried Snack,Red,Remove chicken and outer layer,Not recommended for composting
+Vegetable Kachori,Fried Snack,Red,Remove outer layer,Not recommended for composting
+Dal Kachori,Fried Snack,Red,Remove outer layer,Not recommended for composting
+Pyaaz Kachori,Fried Snack,Red,Remove outer layer,Not recommended for composting
+Vegetable Pattice,Fried Snack,Red,Remove fried coating,Not recommended for composting
+Paneer Pattice,Fried Snack,Red,Remove paneer and coating,Not recommended for composting
+Chicken Pattice,Fried Snack,Red,Remove chicken and coating,Not recommended for composting
+Vegetable Roll,Street Food,Red,Remove fried wrapper,Not recommended for composting
+Egg Roll,Street Food,Red,Remove egg and wrapper,Not recommended for composting
+Chicken Roll,Street Food,Red,Remove chicken and wrapper,Not recommended for composting
+Paneer Roll,Street Food,Red,Remove paneer and wrapper,Not recommended for composting
+Vegetable Frankie,Street Food,Red,Remove fried wrapper,Not recommended for composting
+Egg Frankie,Street Food,Red,Remove egg and wrapper,Not recommended for composting
+Chicken Frankie,Street Food,Red,Remove chicken and wrapper,Not recommended for composting
+Paneer Frankie,Street Food,Red,Remove paneer and wrapper,Not recommended for composting
+Vegetable Sandwich,Snack,Yellow,Separate bread,Bread is not compostable
+Grilled Cheese Sandwich,Snack,Yellow,Separate bread and cheese,Bread and cheese are not compostable
+Vegetable Burger,Snack,Red,Remove bun and fried patty,Not recommended for composting
+Chicken Burger,Snack,Red,Remove chicken and bun,Not recommended for composting
+Paneer Burger,Snack,Red,Remove paneer and bun,Not recommended for composting
+Vegetable Pizza,Snack,Red,Remove cheese and base,Not recommended for composting
+Chicken Pizza,Snack,Red,"Remove chicken, cheese, and base",Not recommended for composting
+Paneer Pizza,Snack,Red,"Remove paneer, cheese, and base",Not recommended for composting
+Vegetable Wrap,Snack,Red,Remove wrapper,Not recommended for composting
+Chicken Wrap,Snack,Red,Remove chicken and wrapper,Not recommended for composting
+Paneer Wrap,Snack,Red,Remove paneer and wrapper,Not recommended for composting
+Vegetable Salad,Salad,Green,Mix with other compostables,No dressing or cheese
+Fruit Salad,Salad,Green,Mix with other compostables,No cream or dressing
+Chicken Salad,Salad,Red,Remove chicken,Chicken is not compostable
+Paneer Salad,Salad,Yellow,Separate paneer,Paneer is not compostable
+Vegetable Soup,Soup,Green,Mix with other compostables,No cream or oil
+Tomato Soup,Soup,Green,Mix with other compostables,No cream or oil
+Chicken Soup,Soup,Red,Remove chicken,Chicken is not compostable
+Paneer Soup,Soup,Yellow,Separate paneer,Paneer is not compostable
+Vegetable Stew,Stew,Green,Mix with other compostables,No cream or oil
+Chicken Stew,Stew,Red,Remove chicken,Chicken is not compostable
+Paneer Stew,Stew,Yellow,Separate paneer,Paneer is not compostable
+Vegetable Curry,Curry,Green,Mix with other compostables,No oil or spices
+Chicken Curry,Curry,Red,Remove chicken,Chicken is not compostable
+Paneer Curry,Curry,Yellow,Separate paneer,Paneer is not compostable
+Vegetable Stir Fry,Stir Fry,Green,Mix with other compostables,No oil or spices
+Chicken Stir Fry,Stir Fry,Red,Remove chicken,Chicken is not compostable
+Paneer Stir Fry,Stir Fry,Yellow,Separate paneer,Paneer is not compostable
+Vegetable Kebabs,Grilled Snack,Green,Mix with other compostables,No oil or spices
+Chicken Kebabs,Grilled Snack,Red,Remove chicken,Chicken is not compostable
+Paneer Kebabs,Grilled Snack,Yellow,Separate paneer,Paneer is not compostable
+Vegetable Tikka,Grilled Snack,Green,Mix with other compostables,No oil or spices
+Chicken Tikka,Grilled Snack,Red,Remove chicken,Chicken is not compostable
+Paneer Tikka,Grilled Snack,Yellow,Separate paneer,Paneer is not compostable
