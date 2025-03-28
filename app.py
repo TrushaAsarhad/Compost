@@ -1,37 +1,44 @@
 import streamlit as st
 import joblib
 import pandas as pd
+import numpy as np
 
-# Load model and dataset
-pipeline = joblib.load("compost_model.pkl")
+# Load data
 df = pd.read_csv("data.csv")
+
+# Load trained model
+model = joblib.load("compost_model.pkl")
+vectorizer = joblib.load("vectorizer.pkl")
+category_encoder = joblib.load("category_encoder.pkl")
+
+# Define compostability mapping
+compost_mapping = {0: "Green", 1: "Brown", 2: "Partial", 3: "Non-Compostable"}
+
+def predict_compostability(food_item, category):
+    food_vector = vectorizer.transform([food_item]).toarray()
+    category_encoded = category_encoder.transform([category])[0]
+    input_features = np.hstack((food_vector, [[category_encoded]]))
+
+    pred = model.predict(input_features)[0]
+    compost_status = compost_mapping[pred]
+
+    details = df[(df["Food Item"].str.lower() == food_item.lower()) & (df["Category"] == category)]
+    
+    if not details.empty:
+        method = details["Composting Method"].values[0] if "Composting Method" in details.columns else "Unknown"
+        notes = details["Notes"].values[0] if "Notes" in details.columns else "Unknown"
+    else:
+        method, notes = "Unknown", "Unknown"
+
+    return f"🗑️ **{food_item}** is **{compost_status}**.\n📌 **Method:** {method}\n📖 **Notes:** {notes}"
 
 # Streamlit UI
 st.title("♻️ Compostability Predictor")
-st.write("Enter a food item to check if it's compostable and learn how to compost it.")
+st.write("Enter a food item and its category to check compostability!")
 
-# User Input
 food_item = st.text_input("Enter food item:", "")
+category = st.selectbox("Select category:", df["Category"].unique())
 
-if st.button("Check Compostability"):
-    if food_item:
-        # Predict class (1 = Compostable, 0 = Not Compostable)
-        pred = pipeline.predict([food_item])[0]
-
-        # Find details
-        details = df[df["Food Item"].str.lower() == food_item.lower()]
-
-        if pred == 1:
-            method = details["Composting Method"].values[0] if not details.empty else "Unknown"
-            notes = details["Notes"].values[0] if not details.empty else "Unknown"
-            st.success(f"✅ **{food_item} is compostable!**")
-            st.write(f"**🟢 Composting Method:** {method}")
-            st.write(f"**📝 Notes:** {notes}")
-        else:
-            notes = details["Notes"].values[0] if not details.empty else "Unknown"
-            st.error(f"❌ **{food_item} is NOT compostable.**")
-            st.write(f"**⚠️ Reason:** {notes}")
-    else:
-        st.warning("Please enter a food item.")
-
-# Run this app using: `streamlit run app.py`
+if food_item:
+    result = predict_compostability(food_item, category)
+    st.markdown(result)
